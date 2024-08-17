@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk"><!--arquivo de projeto do c#, sdk utilizado = .net-->
+<!--metadados do projeto, como ele vai se comportar-->
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType> <!--tipo de saida quando o projeto for compilado: arquivo executavel (pode ser uma arquivo de bibliotecas)-->
+    <TargetFramework>net8.0</TargetFramework> <!--versão .net, mudar versão com cautela porque pode não funcionar o código-->
+    <RootNamespace>Sintaxe_indentação_c_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\bin\Debug\net8.0\Tipos_operadores.exe
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\bin\Debug\net8.0\Tipos_operadores.deps.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\bin\Debug\net8.0\Tipos_operadores.runtimeconfig.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\bin\Debug\net8.0\Tipos_operadores.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\bin\Debug\net8.0\Tipos_operadores.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\Tipos_operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\Tipos_operadores.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\Tipos_operadores.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\Tipos_operadores.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\Tipos_operadores.sourcelink.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\Tipos_operadores.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\refint\Tipos_operadores.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\Tipos_operadores.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\Tipos_operadores.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Tipos_operadores\obj\Debug\net8.0\ref\Tipos_operadores.dll

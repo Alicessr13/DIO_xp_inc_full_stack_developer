@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Sintaxe_indentação_c#")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tipos_operadores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ff9ba16d28fa98dec102d1f27b59a61a4966161")]
-[assembly: System.Reflection.AssemblyProductAttribute("Sintaxe_indentação_c#")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Sintaxe_indentação_c#")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tipos_operadores")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tipos_operadores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

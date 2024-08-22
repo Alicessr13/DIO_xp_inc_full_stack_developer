@@ -44,3 +44,15 @@ int.TryParse(h, out i); //precisa informar o a ser convertido e a saída
 
 Console.WriteLine(i);
 
+
+//operador condicional (if else)
+int quantidadeEmEstoque = 10;
+
+int quantidadeCompra = 11;
+
+if(quantidadeEmEstoque>=quantidadeCompra){
+    Console.WriteLine("Venda realizada");
+}
+else{
+    Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque");
+}

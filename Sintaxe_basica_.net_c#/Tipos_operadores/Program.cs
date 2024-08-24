@@ -28,7 +28,7 @@ double f = e;
 Console.WriteLine(f);
 
 //ordem de prioridade dos operadores: () depois expoente depois / * depois + -
-double g = 4 / ( 2 + 2); //nesse exemplo faz o que está dentro do parenteses primeiro
+double g = 4 / (2 + 2); //nesse exemplo faz o que está dentro do parenteses primeiro
 
 Console.WriteLine(g);
 
@@ -48,11 +48,58 @@ Console.WriteLine(i);
 //operador condicional (if else)
 int quantidadeEmEstoque = 10;
 
-int quantidadeCompra = 11;
+int quantidadeCompra = 0;
 
-if(quantidadeEmEstoque>=quantidadeCompra){
+bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra; //para ser true as duas condições precisam ser verdadeiras
+
+Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+Console.WriteLine("Quantidade compra: " + quantidadeCompra);
+Console.WriteLine($"É possivel realizar a venda? {possivelVenda}");
+
+//if valida somente condições ou valor bool, se entrar na primeira condição não entra na segunda nem na ultima, se não entrar na primera vai para as proximas
+if (quantidadeCompra <= 0)
+{
+    Console.WriteLine("Venda invalida");
+}
+else if (possivelVenda)
+{//se essa condição for verdadeira executa esse código
     Console.WriteLine("Venda realizada");
 }
-else{
+else
+{//se não executa esse código
     Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque");
+}
+
+//switch case
+
+Console.WriteLine("Digite uma letra:");
+string letra = Console.ReadLine(); //espera o usuário digitar, le o que o usuário digitar e espera o comando enter
+
+switch (letra)
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+
+    default:
+        Console.WriteLine("Não é um vogal");
+        break;
+}
+
+//operador OR (pipe, ||)
+
+bool ehMaiorDeIdade = true;
+bool possuiAutorizacaoDoResponsavel = false;
+
+if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+{
+    Console.WriteLine("Entrada liberada");
+}
+else
+{
+    Console.WriteLine("Entrada não liberada");
 }

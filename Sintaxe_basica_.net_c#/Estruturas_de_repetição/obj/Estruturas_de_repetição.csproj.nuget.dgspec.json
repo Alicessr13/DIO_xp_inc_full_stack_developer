@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\Estruturas_de_repetição.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\Estruturas_de_repetição.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\Estruturas_de_repetição.csproj",
+        "projectName": "Estruturas_de_repetição",
+        "projectPath": "c:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\Estruturas_de_repetição.csproj",
+        "packagesPath": "C:\\Users\\Alicessr\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alicessr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

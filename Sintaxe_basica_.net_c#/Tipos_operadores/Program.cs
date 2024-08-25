@@ -1,6 +1,8 @@
 ﻿// operador = é de atribuição
 
 //para atribuir o valor precisa ser do mesmo tipo da variavel
+using System.Reflection.Metadata;
+
 int a = Convert.ToInt32("10"); //para converter pode ser utilizado a classe convert
 
 int b = int.Parse("10");//para converter também pode ser utilizado o parse
@@ -90,7 +92,7 @@ switch (letra)
         break;
 }
 
-//operador OR (pipe, ||)
+//operador OR (pipe, ||) somente uma condição precisa ser verdadeira
 
 bool ehMaiorDeIdade = true;
 bool possuiAutorizacaoDoResponsavel = false;
@@ -102,4 +104,32 @@ if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
 else
 {
     Console.WriteLine("Entrada não liberada");
+}
+
+//operador and (&&) todas as condições precisam ser verdadeiras
+
+bool possuiPresencaMinima = true;
+double media = 7.5;
+
+if (possuiPresencaMinima && media >= 7)
+{
+    Console.WriteLine("Aprovado!");
+}
+else
+{
+    Console.WriteLine("Reprovado!");
+}
+
+//operador not (!) nega um valor booleano (se for true vai ser false, se for false vai ser true)
+
+bool choveu = true;
+bool estaTarde = true;
+
+if (!choveu && !estaTarde)//vai entrar nesse condição se os 2 forem false (! faz esperar o valor contrario ou seja false porque o if espera true)
+{
+    Console.WriteLine("Vou pedalar");
+}
+else
+{
+    Console.WriteLine("Vou pedalar um outro dia");
 }

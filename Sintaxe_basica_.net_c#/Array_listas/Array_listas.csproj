@@ -1,10 +1,5 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <ItemGroup>
-    <ProjectReference Include="..\Organização_programa.Common\Organização_programa.Common.csproj" />
-    <ProjectReference Include="..\Sintaxe_indentação_c#\Sintaxe_indentação_c#.csproj" />
-  </ItemGroup>
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>

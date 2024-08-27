@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\bin\Debug\net8.0\Array_listas.exe
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\bin\Debug\net8.0\Array_listas.deps.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\bin\Debug\net8.0\Array_listas.runtimeconfig.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\bin\Debug\net8.0\Array_listas.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\bin\Debug\net8.0\Array_listas.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\Array_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\Array_listas.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\Array_listas.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\Array_listas.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\Array_listas.sourcelink.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\Array_listas.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\refint\Array_listas.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\Array_listas.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\Array_listas.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Sintaxe_basica_.net_c#\Array_listas\obj\Debug\net8.0\ref\Array_listas.dll

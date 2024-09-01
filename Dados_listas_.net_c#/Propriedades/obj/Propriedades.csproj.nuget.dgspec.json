@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\Estruturas_de_repetição.csproj": {}
+    "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Dados_listas_.net_c#\\Propriedades\\Propriedades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\Estruturas_de_repetição.csproj": {
+    "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Dados_listas_.net_c#\\Propriedades\\Propriedades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\Estruturas_de_repetição.csproj",
-        "projectName": "Estruturas_de_repetição",
-        "projectPath": "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\Estruturas_de_repetição.csproj",
+        "projectUniqueName": "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Dados_listas_.net_c#\\Propriedades\\Propriedades.csproj",
+        "projectName": "Propriedades",
+        "projectPath": "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Dados_listas_.net_c#\\Propriedades\\Propriedades.csproj",
         "packagesPath": "C:\\Users\\Alicessr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Sintaxe_basica_.net_c#\\Estruturas_de_repetição\\obj\\",
+        "outputPath": "C:\\Users\\Alicessr\\Documents\\DIO\\DIO_xp_inc_full_stack_developer\\Dados_listas_.net_c#\\Propriedades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alicessr\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,34 +7,76 @@ namespace Propriedades.models
 {
     public class Pessoa
     {
+        //construtor = é chamado quando é criada uma classe, tem sempre o mesmo nome da classe, 
+        public Pessoa(string nome, string sobrenome)
+        {
+            Nome = nome; //premeiro nome = propriedade da classe, segundo nome = parametro do construtor
+            Sobrenome = sobrenome;
+        }
+        //pode ter mais de um construtor
+        public Pessoa(){
+
+        }
+
         //propriedades da classe pessoa
         //get = pegar valor, set = atribuir valor
-        //nome será armazenado em _nome que é private (somente quem consegue modificar é a propria classe)
+        //nome será armazenado em _nome que é private (somente quem consegue modificar é a propria classe) 
+        //(public = qualquer 1 pode acessar)
         private string _nome;
-        public string Nome 
-        { 
+        public string Nome
+        {
             get
             {
                 //retorna o _nome
                 return _nome.ToUpper();
             }
+
+            //get => _nome.ToUpper(); modo simplificado de escrever o get 
+
+            //set => _nome = value; modo simplificado de escrever o set
+
             //quando usar o set
-            set{
+            set
+            {
                 //se o valor atribuido(recebido por nome) for vazio gera uma exceção 
                 //(vai parar o código, esperrar a exceção ser tratada e se não tratar encerra o código)
-                if(value == ""){
+                if (value == "")
+                {
                     throw new ArgumentException("O nome não pode ser vazio");
                 }
                 //_nome vai receber o valor
                 _nome = value;
             }
         }
-        
 
-        public int Idade { get; set; }
+        private int _idade;
 
-        public void Apresentar(){
-            Console.WriteLine($"Nome: {Nome}, Idade {Idade}");
+
+        public int Idade
+        {
+            get => _idade;
+
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("A idade não pode ser menor que zero");
+                }
+
+                _idade = value;
+            }
+        }
+
+        //public int Idade { get; set; }
+
+        public string Sobrenome { get; set; }
+
+        //propriedade com somente get, pode ser combinadas outras propriedades em uma 
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+
+        public void Apresentar()
+        {
+            Console.WriteLine($"Nome: {NomeCompleto}, Idade {Idade}");
         }
     }
 }

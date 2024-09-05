@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\bin\Debug\net8.0\Exceções_coleções.exe
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\bin\Debug\net8.0\Exceções_coleções.deps.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\bin\Debug\net8.0\Exceções_coleções.runtimeconfig.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\bin\Debug\net8.0\Exceções_coleções.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\bin\Debug\net8.0\Exceções_coleções.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\Exceções_coleções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\Exceções_coleções.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\Exceções_coleções.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\Exceções_coleções.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\Exceções_coleções.sourcelink.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\Exceções_coleções.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\refint\Exceções_coleções.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\Exceções_coleções.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\Exceções_coleções.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Exceções_coleções\obj\Debug\net8.0\ref\Exceções_coleções.dll

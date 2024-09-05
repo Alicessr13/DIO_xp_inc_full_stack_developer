@@ -71,7 +71,7 @@ namespace Propriedades.models
 
         public string Sobrenome { get; set; }
 
-        //propriedade com somente get, pode ser combinadas outras propriedades em uma 
+        //propriedade somente leitura, somente get, pode ser combinadas outras propriedades em uma 
         public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
 
         public void Apresentar()

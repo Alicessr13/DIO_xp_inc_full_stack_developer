@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\bin\Debug\net8.0\Nuget_serializar_atributos.exe
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\bin\Debug\net8.0\Nuget_serializar_atributos.deps.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\bin\Debug\net8.0\Nuget_serializar_atributos.runtimeconfig.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\bin\Debug\net8.0\Nuget_serializar_atributos.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\bin\Debug\net8.0\Nuget_serializar_atributos.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\Nuget_serializar_atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\Nuget_serializar_atributos.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\Nuget_serializar_atributos.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\Nuget_serializar_atributos.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\Nuget_serializar_atributos.sourcelink.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\Nuget_serializar_atributos.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\refint\Nuget_serializar_atributos.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\Nuget_serializar_atributos.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\Nuget_serializar_atributos.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Nuget_serializar_atributos\obj\Debug\net8.0\ref\Nuget_serializar_atributos.dll

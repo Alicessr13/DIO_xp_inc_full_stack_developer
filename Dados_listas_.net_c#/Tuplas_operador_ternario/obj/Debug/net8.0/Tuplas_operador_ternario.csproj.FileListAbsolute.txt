@@ -1,0 +1,15 @@
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\bin\Debug\net8.0\Tuplas_operador_ternario.exe
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\bin\Debug\net8.0\Tuplas_operador_ternario.deps.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\bin\Debug\net8.0\Tuplas_operador_ternario.runtimeconfig.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\bin\Debug\net8.0\Tuplas_operador_ternario.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\bin\Debug\net8.0\Tuplas_operador_ternario.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\Tuplas_operador_ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\Tuplas_operador_ternario.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\Tuplas_operador_ternario.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\Tuplas_operador_ternario.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\Tuplas_operador_ternario.sourcelink.json
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\Tuplas_operador_ternario.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\refint\Tuplas_operador_ternario.dll
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\Tuplas_operador_ternario.pdb
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\Tuplas_operador_ternario.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\DIO\DIO_xp_inc_full_stack_developer\Dados_listas_.net_c#\Tuplas_operador_ternario\obj\Debug\net8.0\ref\Tuplas_operador_ternario.dll

@@ -67,3 +67,10 @@ if(sucesso){
 else{
     Console.WriteLine($"{dataString} não é uma data valida");
 }
+
+//descontrutor
+Pessoa p3 = new Pessoa("Alice", "Stephanie");
+
+(string nome, string sobrenome) = p3;
+//pega os valores e coloca em váriaveis (descontruindo em uma varíavel)
+Console.WriteLine($"{nome} {sobrenome}");

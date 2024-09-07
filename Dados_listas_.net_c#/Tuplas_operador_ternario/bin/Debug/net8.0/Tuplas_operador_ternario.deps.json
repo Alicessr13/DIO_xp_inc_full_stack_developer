@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tuplas_operador_ternario/1.0.0": {
+        "runtime": {
+          "Tuplas_operador_ternario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tuplas_operador_ternario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -14,9 +14,18 @@ namespace Propriedades.models
             Sobrenome = sobrenome;
         }
         //pode ter mais de um construtor
-        public Pessoa(){
+        public Pessoa()
+        {
 
         }
+
+        //descontrutor, inverso de construtor, pega os valores e coloca em váriaveis (descontruindo em uma varíavel)
+        public void Deconstruct(out string nome, out string sobrenome) //out = parametro de saída
+        { 
+            nome = Nome;
+            sobrenome = Sobrenome;
+        }
+
 
         //propriedades da classe pessoa
         //get = pegar valor, set = atribuir valor
@@ -78,5 +87,7 @@ namespace Propriedades.models
         {
             Console.WriteLine($"Nome: {NomeCompleto}, Idade {Idade}");
         }
+
+
     }
 }

@@ -11,6 +11,15 @@ namespace ExemploPOO.models
         public string Nome { get; set; }
         public int Idade { get; set; }
 
+        public Pessoa(string nome)
+        {
+            Nome = nome;
+        }
+
+        public Pessoa(){
+            
+        }
+
         //virtual = método pode ser sobreescrito pela classe filha
         public virtual void Apresentar()
         {

@@ -27,5 +27,9 @@ namespace ModuloAPI.Context
         //"Server=localhost\\sqlexpress; = servidor do banco de dados
         //Initial Catalog=Agenda; = banco de dados que vai ser utilizado, o entity framework cria
         //Integrated Security=True" = autenticação 
+
+        //toda criação de tabela precisa pedir para o entity criar de maneira antecipada = migrations (mapeamento das classes para transformar em tabelas)
+        //dotnet-ef migrations add CriacaoTabelaContato, migrations = ferramenta que vai atualizar o banco de dados, add = nova migration e nome que quiser
+        //dotnet-ef database update gera os comandos no banco de dados
     }
 }

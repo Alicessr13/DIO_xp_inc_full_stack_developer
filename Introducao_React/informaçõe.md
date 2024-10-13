@@ -17,3 +17,23 @@ existem componentes de classe e de funções, mais usado atualmente e de funçõ
 ao referenciar somente a pasta ele importa o index por padrão
 
 rfc cria a estrutura do componente
+
+npm run start executar
+
+iniciar projeto node.js
+npm init -y
+
+instalar babel npm install @babel/core @babel/preset-env @babel/preset-react babel-loader --save-dev
+arquivo .babelrc
+{
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-react"
+  ]
+}
+
+adicionar react ao projeto npm install react react-dom
+
+Eslint ajuda a manter um padrão de escrita de código
+
+prettier usa com o eslint, editorconfig

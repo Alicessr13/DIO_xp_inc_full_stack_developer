@@ -37,3 +37,23 @@ adicionar react ao projeto npm install react react-dom
 Eslint ajuda a manter um padrão de escrita de código
 
 prettier usa com o eslint, editorconfig
+
+funções para array
+
+map = não modifica o array original, cria um novo, realiza as operações em ordem
+recebe 2 parametros, callback(função a ser executada em cada elemento) e thisArg (opcional)
+parecido com foreach
+exemplo: const array [1, 2, 3, 4, 5];
+array.map((item)=> item *2);
+retorno: [2, 4, 6, 8, 10];
+
+filter = só retorna os itens que correspondem a determinada condição, retorna em um novo array
+também recebe 2 parametros callback e thisArg
+exemplo: const frutas ['maça fuji', 'maça verde', 'laranja', 'abacaxi'];
+frutas.filter((fruta) => fruta.includes('maça'));
+retorno: ['maça fuji', 'maça verde'];
+
+reduce = executa uma função em todos os elementos do array, retornando um valor único
+também recebe 2 parametros callback e initialValue
+callback: função a ser executada a partir do acumulador
+initialValue: valor sobre o qual o retorno final irá atuar (opcional)

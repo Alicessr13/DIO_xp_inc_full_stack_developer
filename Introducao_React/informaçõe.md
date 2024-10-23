@@ -57,3 +57,23 @@ reduce = executa uma função em todos os elementos do array, retornando um valo
 também recebe 2 parametros callback e initialValue
 callback: função a ser executada a partir do acumulador
 initialValue: valor sobre o qual o retorno final irá atuar (opcional)
+ 
+hooks:
+useState = para lidar com estados
+import {useState} from 'react';
+em react o estado e sobreescrito
+recebe um estado inicial e uma função para alterar o estado
+quando alterar o estado vai ser renderizado
+
+useEffect = trabalha com ciclo de vida
+primeiro parametro e uma função que irá realizar algo e o segundo parametro e o array de dependencia (quando eu quero que o useEffect execute novamente)
+gerenciar quando um compenente está renderizando ou sofrendo alguma alteração e quando ele precisa realizar uma alteração novamente
+
+useMemo = guarda na memoria algum calculo/ação/valor que não precisa ficar renderizando, evita que alguma parte do código seja renderizada mesmo ao mudar o estado(renderizar)
+referencia em variaveis
+
+useCallback = parecido com o useMemo mas memoriza uma função
+recebe primeiro parametro a função e depois um array de dependencias
+referencia em função
+
+react hook forms = para formularios

@@ -39,3 +39,14 @@ precisa instalar o typescript no projeto e executar, cria o arquivo tsconfig.jso
 
 tipo do arquivo tsx a inves de jsx
 e ts ao inves de js
+
+next.js = framework do react, seu grande diferencial e poder controlar o método de renderização da aplicação
+SSR, SPA, SSG
+
+SSR renderização do lado do servidor
+SPA renderização do lado do cliente (método padrão do javascript)
+SSG pré-renderiza páginas usando geração estática
+
+no next as pastas e arquivos são rotas e pode pegar parametros pela url
+
+next auth biblioteca para api
